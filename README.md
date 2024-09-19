@@ -4,7 +4,7 @@ ADHDventure es una plataforma de juegos interactivos orientada a personas con TD
 
 ![Banner de la aplicación](./assets/ADHDventureBanner.jpg)
 
-1. [Idea](#idea)
+1. <a name="idea">Idea</a>
 2. [Audiencia objetivo](#)
 3. [Análisis de mercado](#)
 4. [Funcionalidades clave](#)
@@ -18,3 +18,91 @@ ADHDventure es una plataforma de juegos interactivos orientada a personas con TD
 
 La idea de ==ADHDventure== es ofrecer una serie de retos y juegos interactivos para 
 
+### <a name="head1234"></a>A Heading in this SO entry!
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+asdfasfasdf
+
+
+
+#### Best answer is in this [link](#head1234)
