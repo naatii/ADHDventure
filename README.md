@@ -7,7 +7,7 @@ backgroundColor: #fff
 backgroundImage: url('./assets/NeuroPlay.png')
 color: black
 ---
-[![Propuesta](/assets/BotónPrpuesta.png)](/Propuesta.md) [![Informe](/assets/BotónInforme.png)](/Informe.md)
+[![Propuesta](./assets/BotónPrpuesta.png)](/Propuesta.md) [![Informe](./assets/BotónInforme.png)](/Informe.md)
 
 ![bg left:40% 80%](./assets/NeuroPlay/NeuroPlay-Photoroom.png)
 
