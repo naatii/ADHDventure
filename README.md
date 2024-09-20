@@ -1,19 +1,16 @@
-# ADHDventure
-
-ADHDventure es una plataforma de juegos interactivos orientada a personas con TDAH (Trastorno por Déficit de Atención e Hiperactividad) 
-
-![Banner de la aplicación](./assets/ADHDventureBanner.jpg)
-
-1. [Idea](#idea-idea)
-2. [Audiencia objetivo](#)
-3. [Análisis de mercado](#)
-4. [Funcionalidades clave](#)
-5. [Lenguajes de programación web](#)
-6. [Tecnologías a utilizar](#)
-7. [Compatibilidad en navegadores](#)
-
-
 ---
-# Idea {#idea}
+marp: true
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+backgroundImage: url('./assets/NeuroPlay.png')
+color: black
+---
+[![Propuesta](/assets/BotónPrpuesta.png)](/Propuesta.md) [![Informe](/assets/BotónInforme.png)](/Informe.md)
 
-La idea de ADHDventure es ofrecer una serie de retos y juegos interactivos para  
+![bg left:40% 80%](./assets/NeuroPlay/NeuroPlay-Photoroom.png)
+
+`
+¡Bienvenido a NeuroPlay! 🎮 Aquí, la diversión y el enfoque se unen para potenciar tu mente. Juega, mejora tu atención y gana recompensas mientras te superas a ti mismo. ¡Empieza ahora y desbloquea tu mejor versión! 🌟
+`
