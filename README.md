@@ -5,7 +5,7 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('./assets/NeuroPlay.png')
-color: black
+color: black 
 ---
 [![Propuesta](./assets/BotónPrpuesta.png)](/Documento%20de%20propuesta.md.html) [![Informe](./assets/BotónInforme.png)](/Informe.md)
 
