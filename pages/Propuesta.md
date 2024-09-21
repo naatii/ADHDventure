@@ -11,7 +11,7 @@
 4. [Funcionalidades clave](#funcionalidades-clave)
 5. [Tecnologías usadas](#)
 ---
-9. [Bibliografía](#bibliografía)
+6. [Bibliografía](#bibliografía)
 
 ## Idea
 

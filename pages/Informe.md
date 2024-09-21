@@ -7,11 +7,11 @@
 
 1. [Modelos de ejecución](#modelos-de-ejecución)
 2. [Lenguajes de programación web](#lenguajes-de-programación-web)
-4. [Compatibilidad en navegadores](#compatibilidad)
-5. [Mecanísmos de integración](#mecanísmos-de-integración)
-6. [Evaluación de herramientas de programación](#evaluación-de-herramientas-de-programación--cliente-)
+3. [Compatibilidad en navegadores](#compatibilidad)
+4. [Mecanísmos de integración](#mecanísmos-de-integración)
+5. [Evaluación de herramientas de programación](#evaluación-de-herramientas-de-programación--cliente-)
 ---
-5. [Bibliografía](#bibliografía)
+6. [Bibliografía](#bibliografía)
 
 ## Modelos de ejecución
 
