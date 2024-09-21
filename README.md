@@ -7,7 +7,7 @@ backgroundColor: #fff
 backgroundImage: url('./assets/NeuroPlay.png')
 color: black 
 ---
-[![Propuesta](./assets/BotónPrpuesta.png)](https://naatiworlds.github.io/NeuroPlay/Propuesta) [![Informe](./assets/BotónInforme.png)](/Informe.md)
+[![Propuesta](./assets/BotónPrpuesta.png)](/Propuesta) [![Informe](./assets/BotónInforme.png)](/Informe)
 
 ![bg left:40% 80%](./assets/NeuroPlay/NeuroPlay-Photoroom.png)
 
