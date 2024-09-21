@@ -1,4 +1,4 @@
-[![Propuesta](../assets/BotónPrpuesta.png)](./Propuesta) [![Informe](../assets/BotónInforme.png)](./Informe)
+[![Propuesta](../assets/BotónInicio-s.png)](../index.html)[![Propuesta](../assets/BotónPrpuesta.png)](./Propuesta) [![Informe](../assets/BotónInforme.png)](./Informe)
 
 # Informe técnico  
 
