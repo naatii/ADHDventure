@@ -1,3 +1,5 @@
+[![Propuesta](../assets/BotónPrpuesta.png)](./Propuesta) [![Informe](../assets/BotónInforme.png)](./Informe)
+
 # Documento de propuesta  
 
 | <img width="200px" src="../assets/NeuroPlay/NeuroPlay-Photoroom.png"/> | NeuroPlay  es una plataforma de juegos interactivos orientada a personas con TDAH (Trastorno por Déficit de Atención e Hiperactividad)  |
