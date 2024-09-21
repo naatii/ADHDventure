@@ -5,7 +5,7 @@ markdown: GFM
 avatar: "./assets/NeuroPlay/NeuroPlay-Photoroom.png"
 round-avatar: true
 title-on-all-pages: false
-page-col: "#FFFFFF"
+page-col: "#000000"
 text-col: "#404040"
 link-col: "#008AFF" 
 hover-col: "#0085A1"
