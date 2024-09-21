@@ -1,4 +1,4 @@
-[![Propuesta](../assets/BotónInicio-s.png)](../index.html)[![Propuesta](../assets/BotónPrpuesta.png)](./Propuesta) [![Informe](../assets/BotónInforme.png)](./Informe)
+[![Propuesta](../assets/BotónInicio-s.png)](../index.html)[![Propuesta](../assets/BotónPrpuesta.png)](./Propuesta)[![Informe](../assets/BotónInforme.png)](./Informe)
 
 # Documento de propuesta  
 
@@ -11,7 +11,7 @@
 2. [Audiencia objetivo](#audiencia)
 3. [Análisis de mercado](#análisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
-5. [Tecnologías usadas](#)
+5. [Tecnologías usadas](#tecnologías-usadas-y-justificación)
 ---
 6. [Bibliografía](#bibliografía)
 
