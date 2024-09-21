@@ -54,6 +54,13 @@ En mi caso habiendo comparado las distintas herramientas como: Vue, React, Sprin
 - **Base de datos: MongoDB**
 
     MongoDB se adapta perfectamente a las necesidades de la plataforma, permitiendo un crecimiento rápido en cuanto al número de usuarios y flexibilidad para modificar los esquemas de datos de los juegos y recompensas.
+- **Framework de estilos: boostrap y taildwind**
+
+    Ofrece una amplia variedad de componentes utiles y fáciles de usar para la creación de interfaces de usuario limpias y bonitas, a su vez ahorraré tiempo para el desarrollo de interactividad y dinámicas para el usuario.
+
+- **Librerias: Axios, React-Draggable, Animated, React Joyride, formik, React admin**
+
+    Las librerías ofrecen una calidad y facilidad a la hora de usar una web ofrecen miles de funcionalidades y componentes reusables imprescindibles hoy en día para la creación de una aplicación a la altura de las espectativas del cliente.
 
 ## Bibliografía
 
