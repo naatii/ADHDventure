@@ -9,10 +9,7 @@
 2. [Audiencia objetivo](#audiencia)
 3. [Análisis de mercado](#análisis-de-mercado)
 4. [Funcionalidades clave](#funcionalidades-clave)
-6. [Lenguajes de programación web](#lenguajes-de-programación-web)
-5. [Modelos de ejecución](#modelos-de-ejecución)
-7. [Tecnologías a utilizar](#)
-8. [Compatibilidad en navegadores](#)
+5. [Tecnologías usadas](#)
 ---
 9. [Bibliografía](#bibliografía)
 
@@ -40,23 +37,22 @@ Algunas aplicaciones que ya abordan el TDAH o proporcionan juegos de entrenamien
 - **Modo sin conexión**: Algunos juegos podrán jugarse sin conexión a Internet.
 - **Interfaz accesible**: Diseño intuitivo y sencillo, con colores llamativos y navegación clara para evitar la sobrecarga sensorial.
 
-## Modelos de ejecución
+## Tecnologías usadas y justificación
 
-En el modelo de ejecución en cliente, las operaciones y la lógica del juego se ejecutan directamente en el navegador del usuario. Este modelo es ideal para la parte interactiva y visual de los juegos, ya que proporciona una respuesta rápida y fluida sin depender constantemente del servidor.
+En mi caso habiendo comparado las distintas herramientas como: Vue, React, Springboot y Laravel he llegado a la siguiente conclusión:
 
-En el modelo de ejecución en servidor, las operaciones se realizan en el servidor y luego los resultados se envían al cliente. Esto es más adecuado para el almacenamiento de perfiles de usuarios, las recompensas, el progreso y las estadísticas, ya que requiere seguridad y persistencia de datos.
+- **Backend: Laravel**
 
-Un ejemplo claro es usar el modelo de cliente para la lógica de los juegos y el modelo de servidor para la autenticación y gestión de datos de usuarios.
+    Laravel es más rápido de implementar y es fácil de integrar con MongoDB. También ofrece un sistema muy cómodo para manejar autenticación y recompensas (usando Eloquent ORM). Dado que la aplicación inicial está más enfocada en la entrega de funcionalidades rápidas y escalabilidad moderada, Laravel es ideal, frente a Springboot.
 
-## Lenguajes de programación web
+- **Frontend: React** 
 
-JavaScript: Es el lenguaje más utilizado en el lado del cliente, permitiendo interactividad en tiempo real en los juegos. Ventajas: Gran compatibilidad con navegadores, velocidad y capacidad de crear experiencias interactivas complejas. Desventajas: Puede ser difícil de depurar en aplicaciones muy grandes y puede requerir bibliotecas adicionales.
+    React es perfecto ya que busco una interfaz de usuario interactiva y escalable a largo plazo. Me permitirá crear componentes reutilizables y manejar los estados de la aplicación de manera eficiente, especialmente si quiero integrar muchas funcionalidades dinámicas (como notificaciones, recompensas y estadísticas en tiempo real).
 
-TypeScript: Una extensión de JavaScript que añade tipado estático. Ventajas: Mayor robustez y detección de errores en tiempo de desarrollo, especialmente útil en proyectos grandes. Desventajas: Mayor curva de aprendizaje comparada con JavaScript puro, y requiere compilación.
+- **Base de datos: MongoDB**
 
+    MongoDB se adapta perfectamente a las necesidades de la plataforma, permitiendo un crecimiento rápido en cuanto al número de usuarios y flexibilidad para modificar los esquemas de datos de los juegos y recompensas.
 
 ## Bibliografía
 
 1. Aquí busqué información acerca de ventajas y desventajas de Javascript y Typescript -> [Click aquí](https://www.campusmvp.es/recursos/post/typescript-contra-javascript-cual-deberias-utilizar.aspx)
-
-2. toma [chatgpt](chatgpt.com)
