@@ -58,3 +58,5 @@ TypeScript: Una extensión de JavaScript que añade tipado estático. Ventajas: 
 ## Bibliografía
 
 1. Aquí busqué información acerca de ventajas y desventajas de Javascript y Typescript -> [Click aquí](https://www.campusmvp.es/recursos/post/typescript-contra-javascript-cual-deberias-utilizar.aspx)
+
+2. toma [chatgpt](chatgpt.com)
