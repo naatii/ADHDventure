@@ -2,7 +2,7 @@
 
 
 
-![Banner de la aplicación](./assets/NeuroPlay.png)
+![Banner de la aplicación](../assets/NeuroPlay.png)
 
 1. [Idea](#idea)
 2. [Audiencia objetivo](#audiencia)
