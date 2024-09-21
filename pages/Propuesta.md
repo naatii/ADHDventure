@@ -1,5 +1,7 @@
 # Documento de propuesta  
 
+## Por natalia cortés
+
 | <img width="200px" src="../assets/NeuroPlay/NeuroPlay-Photoroom.png"/> | NeuroPlay  es una plataforma de juegos interactivos orientada a personas con TDAH (Trastorno por Déficit de Atención e Hiperactividad)  |
 | ----------- | ----------- |
 
